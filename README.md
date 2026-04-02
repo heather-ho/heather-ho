@@ -34,12 +34,12 @@ Automation, Computer Vision, Real-Time Systems, System Optimization
 
 ## 💼 Experience
 
-### Integrations Student Developer  
+### Integrations Developer  
 - Trained and refined AI models for a **smart parking system**, improving vehicle detection accuracy across large datasets  
 - Enhanced a Python-based tracking system to support **real-time vehicle position prediction**  
 - Contributed to integration projects connecting building access systems with scheduling platforms  
 
-### Systems & Credentials Student Developer  
+### Automation Developer  
 - Engineered automation tools that reduced **2–3 hour manual workflows to under 30 minutes**  
 - Built GUI-based applications for automating ID card production and batch processing  
 - Supported both development and system operations across teams as a shared resource  
