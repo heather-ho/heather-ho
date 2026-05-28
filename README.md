@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Heather Ho
 
-🎓 B.S. in Information Technology (Expected May 2026)  
+🎓 B.S. in Information Technology
 💻 Aspiring Software Engineer | Automation & Computer Vision  
 📍 Florida, USA  
 
@@ -78,4 +78,4 @@ Automation, Computer Vision, Real-Time Systems, System Optimization
 
 ---
 
-⭐️ *Currently seeking entry-level Software Engineering or Automation roles where I can build impactful systems and continue growing as a developer.*
+⭐️ *Currently seeking entry-level Software Developer or Automation roles where I can build impactful systems and continue growing as a developer.*
