@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Heather Ho
 
-🎓 B.S. in Information Technology
+🎓 B.S. in Information Technology, Minor in Entreprenuership & Innovation                         
 💻 Aspiring Software Engineer | Automation & Computer Vision  
 📍 Florida, USA  
 
