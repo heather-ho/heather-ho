@@ -10,7 +10,7 @@
 
 I’m a developer focused on building automation systems and real-time analytics solutions that solve practical, real-world problems.
 
-I’ve worked as a student developer across multiple engineering teams, contributing to both software development and system operations. My experience includes developing automation tools that reduce hours of manual work to minutes and building computer vision systems for real-time tracking and analysis.
+I’ve worked as a developer across multiple engineering teams, contributing to both software development and system operations. My experience includes developing automation tools that reduce hours of manual work to minutes and building computer vision systems for real-time tracking and analysis.
 
 I enjoy creating efficient systems, optimizing workflows, and working on projects that have a direct, measurable impact.
 
